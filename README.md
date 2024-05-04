@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnupriyaPurwar29
 - 👀 I’m interested in coding,developing softwares and learning new languages.
-- 🌱 I’ve completed btech from Bharati Vidyapeeth College of Engineering, Pune in 2021.
+- 🌱 I’ve completed btech in Information Technology from Bharati Vidyapeeth College of Engineering, Pune in 2021.
 - 🙌 Innovative System Engineer with 2.8 years of experience at TCS, proficient in Java, Python, Spring Boot, SQL, and AWS CloudWatch.
 - 👩‍💻 Specializes in designing and developing feature-rich portals, conducting AWS batch testing, and proficient in project management tools such as Jenkins and JIRA.
 - 🤩 Possesses a strong foundation in OOPs and data structures, ensuring timely and high-quality project deliveries.
