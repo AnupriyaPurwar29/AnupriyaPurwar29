@@ -6,6 +6,7 @@
 🏢 Currently contributing to a Logistics Optimization Project, focusing on cargo tracking, report automation, and efficient task scheduling.
 🔥 Previously worked on Application Modernization, successfully migrating legacy systems to cloud environments and improving system performance.
 💡 Research paper published on SDABot—a web-based AI-powered chatbot for academic assistance.
+
 ⚡ Technical Skills:
 **Programming:** Java, Java 8, Core Java, Spring Boot, Spring Batch, JPA, Hibernate, Python, JUnit, Mockito.
 **Cloud & DevOps:** AWS, CloudWatch, CI/CD, Jenkins, Rancher, GitHub, SonarQube, XLDeploy.
